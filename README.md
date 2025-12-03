@@ -15,7 +15,8 @@ Host a globally available, secure, monitored, and cost-optimized static website 
 ## 📌 **Architecture Diagram**
 
 ```md
-!(AWS_Architecture_Diagram.png)
+![AWS Architecture](AWS_Architecture_Diagram.png)
+
 ```
 
 ---
